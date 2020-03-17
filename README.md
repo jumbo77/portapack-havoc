@@ -18,8 +18,8 @@ How to use portapack-havoc ?
 *if you don't use portapack, just
 *Put your HackRF in DFU mode (keep the DFU button pressed and click on the reset button). Flash the HackRF run the dfu_hackrf_one.bat
 *or Select LCD Menu Hackrf Mode,then install driver. and run 1A or 1B.
-(doc/11.jpg)
-(doc/22.jpg)
+![HAVOC ](doc/11.jpg)
+![HAVOC ](doc/22.jpg)
 -------------------------------------------------------------------------------------------------------------------------------
 It is build on top of [ShareBrained's firmware](https://github.com/sharebrained/portapack-hackrf/), meaning most of the original functionality remains the same.
 
