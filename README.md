@@ -1,9 +1,24 @@
 ![HAVOC banner](doc/banner.png)
 
-HAVOC is an **unofficial** fork of the PortaPack H1 firmware, a portability add-on for the [HackRF One software-defined radio](http://greatscottgadgets.com/hackrf/).
+HAVOC is an **unofficial** fork of the PortaPack H1 firmware, a portability add-on for the [HackRF One software-defined radio]
+-----------------------------------------------------------------------------------------------------------------------------
+How to use portapack-havoc ?
+1.download 
+https://github.com/jumbo77/portapack-havoc/blob/master/portapack-havoc.rar
+2.
+  A.connect portapack to hackrf
+  B.hackrf usb cable to windows computer,install driver using driver folder
+  C.run 1A.flash_portapack.bat - havoc to flash hackrf
+  D.connect microusb cable to power bank and hackrf or connect battery 4.2v to battery socket.
+  E.long press Center button 3-4 sec to power on/power off.
+different version:
+1A.flash_portapack - havoc   to flash to work portapack using earphone.
+1B.flash_portapack - spk     to flash to work portapack using Speaker.
 
-Hardware is available at [ShareBrained Technology](http://sharebrained.com/portapack).
-
+if you don't use portapack, just
+Put your HackRF in DFU mode (keep the DFU button pressed and click on the reset button). Flash the HackRF run the dfu_hackrf_one.bat
+or Select LCD Menu Hackrf Mode,then install driver. and run 1A or 1B.
+-------------------------------------------------------------------------------------------------------------------------------
 It is build on top of [ShareBrained's firmware](https://github.com/sharebrained/portapack-hackrf/), meaning most of the original functionality remains the same.
 
 # Documentation & finding help
