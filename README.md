@@ -5,7 +5,7 @@ HAVOC is an **unofficial** fork of the PortaPack H1 firmware, a portability add-
 -----------------------------------------------------------------------------------------------------------------------------
 How to use portapack-havoc ?
 *1.download 
-*https://github.com/jumbo77/portapack-havoc/blob/master/portapack-havoc.rar
+*https://github.com/jumbo77/portapack-havoc/blob/master/portapack-havoc.rar  or  https://github.com/sharebrained/portapack-hackrf/releases
 *2.
 *  A.connect portapack to hackrf
 *  B.hackrf usb cable to windows computer,install driver using driver folder
