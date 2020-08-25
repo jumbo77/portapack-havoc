@@ -1,6 +1,7 @@
 *The PortaPack H1 makes the HackRF One software-defined radio portable. It adds an LCD touchscreen, user interface navigation controls, *audio output and input, micro SD card slot, 2.5 PPM crystal oscillator, and real-time clock battery backup,Speaker,Li po battery Charger and Center key power on/off function(long press 3-4 sec). The PortaPack firmware *provides a user interface and necessary signal processing to do many useful things without a computer.(Using 4.2v lipo battery  work well  rx or tx ssb on 7mhz and 14mhz and HF band)
 ![HAVOC banner](doc/banner.png)
-
+buy online https://openbazaar.com/store/QmbRMEdezvTnwsWRi7MgUiFYwnKDnhAbK1mZD1BBe5ihdy
+You need openbazaar app installed to use this; web preview is available here
 HAVOC is an **unofficial** fork of the PortaPack H1 firmware, a portability add-on for the [HackRF One software-defined radio]
 -----------------------------------------------------------------------------------------------------------------------------
 How to use portapack-havoc ?
