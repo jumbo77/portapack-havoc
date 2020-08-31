@@ -2,7 +2,7 @@
 ![HAVOC banner](doc/banner.png)
 buy online https://openbazaar.com/store/QmbRMEdezvTnwsWRi7MgUiFYwnKDnhAbK1mZD1BBe5ihdy
 You need openbazaar app installed to use this; web preview is available here
-HAVOC is an **unofficial** fork of the PortaPack H1 firmware, a portability add-on for the [HackRF One software-defined radio]
+HAVOC is an **unofficial** fork of the PortaPack H2 firmware, a portability add-on for the [HackRF One software-defined radio]
 -----------------------------------------------------------------------------------------------------------------------------
 How to use portapack-havoc ?
 *1.download 
